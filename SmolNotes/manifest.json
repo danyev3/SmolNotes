@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "SmolNotes",
+  "name": "Smol Notes",
+  "author": "dany_ev3#0001",
+  "version": "0.0.1",
+  "description": "Litterally only changes 'Small Notes' to 'Smol Notes'",
+  "gameVersion": "1.13.5",
+  "dependsOn": {
+    "BSIPA": "^4.0.5"
+  },
+  "features": []
+}
